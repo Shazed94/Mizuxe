@@ -1,5 +1,5 @@
 # Mizuxe
 
-Fully Responsive Website
+Responsive Website
 
 https://shazed94.github.io/Mizuxe/
